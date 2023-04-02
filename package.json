@@ -1,6 +1,6 @@
 {
   "name": "tools-manager",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tools Manager System. (NodeJs) Path2Cloud CAP Demo Webinar",
   "main": "index.js",
   "scripts": {
