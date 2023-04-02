@@ -1,0 +1,20 @@
+{
+  "name": "tools-manager",
+  "version": "0.0.1",
+  "description": "Tools Manager System. (NodeJs) Path2Cloud CAP Demo Webinar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "path2cloud"
+  ],
+  "author": "Rodrigo Riveros A.",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
